@@ -1,0 +1,14 @@
+{
+  "name": "Aqueous",
+  "symbol": "AQU",
+  "description": "A mintable token on Solana Testnet.",
+  "image": "https://i.imgur.com/y66f8sB.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.imgur.com/y66f8sB.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
